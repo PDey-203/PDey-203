@@ -4,11 +4,10 @@
 </div>
 
 <div align="center">
-  <p>Hi there! I am a third-year engineering student at Techno International College, passionate about programming and innovation.</p>
+  <p>Hi there! I am a 3rd year Engineering Student at Techno International Newtown College, Passionate about Programming and Innovations.</p>
 </div>
 
 <div align="center">
-  
   <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -34,12 +33,12 @@
 <div align="center">
   <h2>Social Media</h2>
   <a href="www.linkedin.com/in/pritam-dey-099166262"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href=""><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta"></a>
+  <a href="https://www.instagram.com/ig.__.prixtam.__.2100/"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta"></a>
 </div>
 
 <div align="center">
 <!--   <h2>Projects</h2> -->
-  <ul>
+<!--   <ul> -->
 <!--     <li><a href="https://github.com/yourusername/project1">Project 1</a></li> -->
 <!--     <li><a href="https://github.com/yourusername/project2">Project 2</a></li> -->
 <!--   </ul> -->
